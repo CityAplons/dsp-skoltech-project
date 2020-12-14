@@ -1,6 +1,7 @@
 # Final project for Digital Signal Processing course
 
 ## Libraries
+- numpy
 - opencv-python
 - scipy.dsp
 - scipy.fft
